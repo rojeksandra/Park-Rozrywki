@@ -11,9 +11,12 @@ Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapó
 #### ETAP I (26.02.2024 - 11.03.2024)
 - **Cel:** Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
 - **Narzędzia:** Toad Data Modeler 7.2, SQL Server Management Studio 19
-
+  
 BAZA I
-![BazaI](schemat1.jpg)
+![BazaI](schemat2.jpg)
+BAZA II
+![BazaII](schemat1.jpg)
+
 
 ### W trakcie: 
 #### ETAP II (11.03.2024 - 15.04.2024)
