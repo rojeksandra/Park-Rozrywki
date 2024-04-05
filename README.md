@@ -7,8 +7,8 @@ Projekt jest realizowany w zespołach pięcioosobowych i składa się z 4 etapó
 
 ## Organizacja pracy: ##
 
-## Ukończone: ## 26.02.2024 - 11.03.2024
-## ETAP I ##  
+## Ukończone: S
+## ETAP I 26.02.2024 - 11.03.2024
 ## Cel ##
 Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
 
