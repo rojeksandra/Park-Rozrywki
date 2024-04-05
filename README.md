@@ -13,7 +13,7 @@ Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapó
 - **Narzędzia:** Toad Data Modeler 7.2, SQL Server Management Studio 19
 
 BAZA I
-![BazaI](/Z.PNG)
+![BazaI](schemat1.jpg)
 
 ### W trakcie: 
 #### ETAP II (11.03.2024 - 15.04.2024)
