@@ -12,7 +12,7 @@ Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapó
 - **Cel:** Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
 - **Narzędzia:** Toad Data Modeler 7.2, SQL Server Management Studio 19
 
-** BAZA I **
+BAZA I
 ![BazaI](/Z.PNG)
 
 ### W trakcie: 
