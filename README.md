@@ -28,7 +28,15 @@ BAZA II
 
 ### W trakcie: 
 #### ETAP II (11.03.2024 - 15.04.2024)
-- **Cel:** Celem tego etapu projektu jest implementacja hurtowni danych przy użyciu technologii ETL (Microsoft SQL Server Integration Services - SSIS) oraz opartej na modelu konstelacji gwiazdy. Celem jest stworzenie dwóch tabel faktów oraz pięciu tabel wymiarów. 
+- **Cel:** Celem tego etapu projektu jest implementacja hurtowni danych przy użyciu technologii ETL (Microsoft SQL Server Integration Services - SSIS) oraz opartej na modelu konstelacji gwiazdy. Celem jest stworzenie dwóch tabel faktów oraz pięciu tabel wymiarów.
+
+BAZA II
+1. Modelowanie i implementacja schematu struktur hurtowni danych - stoworzenie modelu konstelacji gwiazdy
+   ![Model gwiazdy baza II](img/gwiazda2.png)
+2. Modelowanie schematu struktur ODS
+   ![ODS 2](img/ODS2.png)
+
+
 
 #### ETAP III (15.04.2024 - 13.05.2024)
 
