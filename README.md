@@ -47,7 +47,10 @@ BAZA II
 
 
 #### ETAP III (15.04.2024 - 13.05.2024)
+- **Cel:** Projekt i implementacja modelu OLAP w formie bazy tabelarycznej (MS SSAS) wraz z
+zasilaniem
 
 #### ETAP IV (13.05.2024 - 03.06.2024)
+- **Cel:** Dashboardy w narzędziu analizy Microsoft Power BI Desktop.
 
 ## Planowana Data Ukończenia Projektu: 03.06.2024
