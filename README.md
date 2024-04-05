@@ -5,9 +5,9 @@ Celem projektu jest stworzenie kompletnego systemu analizy danych, obejmującego
 
 ## Narzędzia:
 
-- ** SQL Server Management Studio 19 **
-- ** Toad Data Modeler 7.2 **
-- ** Visual Studio 2019 **
+- **SQL Server Management Studio 19**
+- **Toad Data Modeler 7.2**
+- **Visual Studio 2019**
 
 Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapów.
 
