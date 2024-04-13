@@ -15,7 +15,7 @@ Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapó
 
 ### Ukończone: 
 #### ETAP I (26.02.2024 - 11.03.2024)
-- **Cel:** Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
+**Cel:** Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
 
 **Projekt gwiazdy**
   
