@@ -18,8 +18,11 @@ Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapó
 - **Cel:** Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
 
 - **Projekt gwiazdy**
+  
   Pierwsza faza polegała na zaprojektowaniu modelu gwaizdy dla każdej z dwóch wcześniej stworzonych baz relacyjnych.
-- **ODS** 
+  
+- **ODS**
+  
 Następnie wcześniej stworzony model danych został poddany kolejnej modyfikacji, celem utworzenia warstwy pośredniej między systemem OLTP a hurtownią danych. Po zdefiniowaniu struktury ODS, skonfigurowano procesy w środowisku Visual Studio, umożliwiające pobieranie danych z baz źródłowych do ODS. Opracowano również mechanizm inkrementalny, który pozwala na przesyłanie do ODS tylko tych rekordów z baz źródłowych, które uległy zmianie.
   
 
