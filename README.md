@@ -50,7 +50,7 @@ BAZA II
 1. Konstelacja gwiazdy dla bazy drugiej
    ![Model gwiazdy baza II](img/gwiazda2.png)
 2. ODS dla bazy drugiej 
-   ![ODS 2](img/ODS2.png)
+   ![ODS 2](img/ods2.png)
 
 
 
