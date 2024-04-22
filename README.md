@@ -44,7 +44,7 @@ BAZA I
 1. Modelowanie i implementacja schematu struktur hurtowni danych - stoworzenie modelu konstelacji gwiazdy
    ![Model gwiazdy baza I](img/schematFaktBiletu.png)
 2. Modelowanie schematu struktur ODS
-   ![ODS 1](img/schemat_ODS.png)
+   ![ODS 1](img/scheamt_ODS.png)
 
 BAZA II
 1. Konstelacja gwiazdy dla bazy drugiej
