@@ -3,6 +3,8 @@
 ## Cel Projektu:
 Celem projektu jest stworzenie kompletnego systemu analizy danych, obejmującego bazy danych, hurtownię danych (ETL), model OLAP oraz interaktywne dashboardy w środowisku Power BI Desktop.
 
+Projekt jest realizowany w zespołach pięcioosobowych na potrzeby przedmiotu Analityczne Bazy Danych (ABD).
+
 ## Narzędzia:
 
 - **SQL Server Management Studio 19**
