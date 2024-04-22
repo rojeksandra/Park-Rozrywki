@@ -42,9 +42,9 @@ Następnie wcześniej stworzony model danych został poddany kolejnej modyfikacj
 
 BAZA I
 1. Modelowanie i implementacja schematu struktur hurtowni danych - stoworzenie modelu konstelacji gwiazdy
-   ![Model gwiazdy baza I](img/gwiazda1.png)
+   ![Model gwiazdy baza I](img/schematFaktBiletu.png)
 2. Modelowanie schematu struktur ODS
-   ![ODS 1](img/ODS1.png)
+   ![ODS 1](img/schemat_ODS.png)
 
 BAZA II
 1. Konstelacja gwiazdy dla bazy drugiej
