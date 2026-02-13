@@ -68,4 +68,7 @@ Etap 3 polegał na zaprojektowaniu i implementacji modelu OLAP w technologii SSA
 #### ETAP IV (13.05.2024 - 03.06.2024)
 - **Cel:** Dashboardy w narzędziu analizy Microsoft Power BI Desktop.
 
-## Planowana Data Ukończenia Projektu: 03.06.2024
+W tym etapie przygotowano interaktywne dashboardy w Power BI na podstawie modelu SSAS Tabular. Opracowane raporty prezentują analizę sprzedaży biletów, koszty działań marketingowych, lokalizacje wydarzeń oraz dane statystyczne dotyczące uczestników.
+
+
+
