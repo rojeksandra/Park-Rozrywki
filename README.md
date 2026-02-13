@@ -13,10 +13,8 @@ Projekt jest realizowany w zespołach pięcioosobowych na potrzeby przedmiotu An
 
 Projekt realizowany jest w zespołach pięcioosobowych i składa się z 4 etapów.
 
-## Organizacja Pracy:
 
-### Ukończone: 
-#### ETAP I (26.02.2024 - 11.03.2024)
+## ETAP I (26.02.2024 - 11.03.2024)
 **Cel:** Opracowanie dwóch relacyjnych baz danych w środowisku MS SQL Server.
 
 BAZA I
@@ -28,8 +26,7 @@ BAZA II
 ![BazaII](img/schemat1.jpg)
 
 
-### W trakcie: 
-#### ETAP II (11.03.2024 - 15.04.2024)
+## ETAP II (11.03.2024 - 15.04.2024)
 **Cel:** Celem tego etapu projektu jest implementacja hurtowni danych przy użyciu technologii ETL (Microsoft SQL Server Integration Services - SSIS) oraz opartej na modelu konstelacji gwiazdy. Celem jest stworzenie dwóch tabel faktów oraz pięciu tabel wymiarów.
 
 **Projekt gwiazdy**
@@ -59,13 +56,13 @@ BAZA II
 
 
 
-#### ETAP III (15.04.2024 - 13.05.2024)
+## ETAP III (15.04.2024 - 13.05.2024)
 - **Cel:** Projekt i implementacja modelu OLAP w formie bazy tabelarycznej (MS SSAS) wraz z
 zasilaniem
 
 Etap 3 polegał na zaprojektowaniu i implementacji modelu OLAP w technologii SSAS Tabular na podstawie wcześniej przygotowanej hurtowni danych. Zbudowano model tabelaryczny obejmujący fakty „Bilety” i „AkcjaMarketingowa”, utworzono relacje między tabelami oraz dodano kluczowe miary analityczne, takie jak całkowity przychód, średni koszt biletu, liczba wejść, liczba unikalnych klientów czy koszty kampanii. Wprowadzono również perspektywy tematyczne (np. Marketing, Uczestnik) w celu uproszczenia analiz. Na podstawie modelu przygotowano raporty w Excelu w formie tabel przestawnych. Podjęto także próbę wdrożenia mechanizmu codziennego odświeżania danych, jednak ze względu na ograniczenia techniczne nie został on w pełni uruchomiony.
 
-#### ETAP IV (13.05.2024 - 03.06.2024)
+## ETAP IV (13.05.2024 - 03.06.2024)
 - **Cel:** Dashboardy w narzędziu analizy Microsoft Power BI Desktop.
 
 W tym etapie przygotowano interaktywne dashboardy w Power BI na podstawie modelu SSAS Tabular. Opracowane raporty prezentują analizę sprzedaży biletów, koszty działań marketingowych, lokalizacje wydarzeń oraz dane statystyczne dotyczące uczestników.
@@ -81,6 +78,24 @@ W tym etapie przygotowano interaktywne dashboardy w Power BI na podstawie modelu
    Dashboard prezentuje liczbę uczestników w różnych przekrojach czasowych. Najwięcej uczestników odnotowano w IV kwartale, natomiast analiza roczna pokazuje spadek liczby uczestników w kolejnych latach. W połączeniu z analizą kosztów umożliwia to ocenę efektywności kampanii oraz identyfikację potencjalnego spadku skuteczności działań marketingowych.
 4. Lokalizacja akcji marketingowych: koszt vs liczba uczestników
    ![LLokalizacja akcji](img/koszt_akcji_lokalizacja_wszystkie_naraz.jpg)
+
+
+## Najważniejsze wnioski z analizy akcji marketingowych
+
+- Rok 2023 był najbardziej kosztowny – wydatki marketingowe były ponad dwukrotnie wyższe niż w pozostałych latach.
+- Najwyższe koszty odnotowano w październiku, co wynikało z intensywnych kampanii sezonowych.
+- Liczba uczestników spada z roku na rok, mimo wzrostu kosztów, co może wskazywać na malejącą efektywność strategii marketingowej.
+- Największa aktywność uczestników przypada na IV kwartał, szczególnie luty i grudzień.
+- Najbardziej efektywną kosztowo lokalizacją jest Park przy lesie (korzystniejszy koszt na uczestnika).
+- Park Rozrywki generuje wysokie koszty jednostkowe, co wymaga dalszej optymalizacji działań.
+- Akcje organizowane przy Karuzelach charakteryzują się niską rentownością.
+
+---
+
+### Uwaga dotycząca danych
+
+Dane wykorzystane w projekcie zostały stworzone na potrzeby realizacji zadania akademickiego i wprowadzone manualnie przez członków zespołu projektowego. W związku z tym mogą występować niespójności lub zależności nieodzwierciedlające realnych warunków biznesowych.
+
    
    
    
