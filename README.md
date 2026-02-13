@@ -70,5 +70,23 @@ Etap 3 polegał na zaprojektowaniu i implementacji modelu OLAP w technologii SSA
 
 W tym etapie przygotowano interaktywne dashboardy w Power BI na podstawie modelu SSAS Tabular. Opracowane raporty prezentują analizę sprzedaży biletów, koszty działań marketingowych, lokalizacje wydarzeń oraz dane statystyczne dotyczące uczestników.
 
+1. Koszt netto akcji marketingowych w podziale na lata
+   ![Koszt netto](img/netto_2023.jpg)
+   Wykres przedstawia całkowity koszt netto akcji marketingowych w ujęciu rocznym. Widoczny jest istotny wzrost kosztów w 2023 roku – ponad dwukrotnie wyższy niż w pozostałych latach. Analiza pozwala zidentyfikować rok o najwyższym obciążeniu budżetowym oraz stanowi punkt wyjścia do oceny efektywności wydatków marketingowych w relacji do osiągniętych rezultatów.
+2. Koszt netto akcji marketingowych w 2023 roku w podziale na miesiące
+    ![Koszt netto 2023](img/netto_miesiac_2023.jpg)
+   Wykres pokazuje miesięczne rozłożenie kosztów marketingowych w roku 2023. Największy wzrost wydatków widoczny jest w październiku, co wskazuje na intensywną kampanię sezonową. Analiza sezonowości pozwala określić okresy największego ryzyka budżetowego oraz ocenić, czy zwiększone nakłady były uzasadnione poziomem aktywności uczestników.
+3. Liczba uczestników akcji marketingowych (miesięcznie, kwartalnie i rocznie)
+   ![Liczba uczestnikow](img/uczestnicy_calosc.jpg)
+   Dashboard prezentuje liczbę uczestników w różnych przekrojach czasowych. Najwięcej uczestników odnotowano w IV kwartale, natomiast analiza roczna pokazuje spadek liczby uczestników w kolejnych latach. W połączeniu z analizą kosztów umożliwia to ocenę efektywności kampanii oraz identyfikację potencjalnego spadku skuteczności działań marketingowych.
+4. Lokalizacja akcji marketingowych: koszt vs liczba uczestników
+   ![LLokalizacja akcji](img/koszt_akcji_lokalizacja_wszystkie_naraz.jpg)
+   
+   
+   
+   
+   
+
+
 
 
